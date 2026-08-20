@@ -52,6 +52,13 @@ The application uses a centered card layout with:
 ---
 Developed as a sample project to showcase Android Notification Best Practices.
 
+## 🧪 Testing and Identification
+The project includes an instrumented test case for identification and verification.
+
+- **Test File**: `IdentificationTest.kt`
+- **Student Name**: ARADHYA RAJ
+- **USN**: 25MCAR0089
+
 ## OUTPUT
 [Screen Recording 2026-08-20 105106.mp4](Screen%20recording/Screen%20Recording%202026-08-20%20105106.mp4)
 ![Screenshot 2026-08-20 105206.png](Screen%20recording/Screenshot%202026-08-20%20105206.png)
